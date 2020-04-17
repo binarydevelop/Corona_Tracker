@@ -1,2 +1,3 @@
 # Corona_Tracker
-A worldwide Covid19 counter.
+A worldwide Covid-19 counter.
+
