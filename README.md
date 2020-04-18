@@ -9,3 +9,7 @@ https://worldreportscovid.ml/
 **Resource : API**  
 https://covid19.mathdro.id/api
 ![](src/images/screen1.png)
+
+
+**Setup**  
+npm start build
