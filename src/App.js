@@ -33,7 +33,7 @@ class App extends React.Component {
         <Cards data={data} />
         <CountryPicker handleCountryChange={this.handleCountryChange} />
         <Chart data={data} country={country} />
-        <p style="color:blue;"> Maintained By: <a href="https://linkedin.in/knowtushar">Tushar Roy</a></p>
+        <p style="color:green;"> Maintained By: <a href="https://linkedin.com/in/tushar-roy-69b858167/">Tushar Roy</a></p>
       </div>
 
 
